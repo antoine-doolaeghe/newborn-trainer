@@ -1,0 +1,32 @@
+Copyright © 2015-2019 by Ads Studio 12. All right reserved.
+
+Thanks you for have purchasing/updated Easy Build System (4.2).
+If you want use only the system you can remove the folder (Samples & Integrations).
+You can read the release notes to know all changes made on the current version.
+
+It is recommended to try all the samples scenes to get a complete idea of the system.
+This allows you to see all the features of the system.
+
+If you are having problems with the asset, please report it to support.
+Share your experiences with the system by write a review on the Asset Store Page.
+
+- (4.2) Release Note :
+
+	- Upgrade (Features & Samples) for the Unity 2019.1.0f.
+	- The add-ons are now correctly removed.
+	- Update for uMMORPG (1.170) integration (guide + add smart install in only one click).
+	- Update for uSurvival (1.48) integration (guilde + add smart install in only one click).
+	- Add integration for PUN2 (Thanks to Dev-StudioFriends).
+	- New integration with uRPG (1.9).
+	- The remove preview is now correctly deleted after use.
+	- The wiki has also updated.
+
+----------------------
+
+Github (Wiki) : https://github.com/AdsCryptoz22/EasyBuildSystem/
+Discord : https://discord.gg/qFM6SNW
+Donate : https://www.paypal.me/AdsStudio12
+Facebook : https://www.facebook.com/AdsStudioQuebec/
+
+Asset Store Page : http://u3d.as/joB
+Unity Forum Thread : https://forum.unity3d.com/threads/ebs-modular-building-system.366086/
